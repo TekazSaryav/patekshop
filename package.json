@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-minimal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file=.env index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.35.0"
+  }
+}
